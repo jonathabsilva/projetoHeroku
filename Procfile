@@ -1,1 +1,1 @@
-web gunicorn almoxarifado.wsgi:apllication --log-file - 
+web gunicorn almoxarifado.wsgi
